@@ -102,8 +102,8 @@ function pushbutton3_Callback(hObject, eventdata, handles)
     [Euc_dist_min , Recognion] = min(Euc_dist);
 
             
-    img_RR= imread(['D:\Mahmoud\College\Graduation Project finall - 2\project\database\',int2str(Recognion),'.jpg']);
-    imwrite(img_RR, ['D:\Mahmoud\College\Graduation Project finall - 2\project\save\',int2str(Recognion),'.jpg'], 'jpg');
+    img_RR= imread(['D:\Mahmoud\Graduation Project\database\',int2str(Recognion),'.jpg']);
+    imwrite(img_RR, ['D:\Mahmoud\Graduation Project\save\',int2str(Recognion),'.jpg'], 'jpg');
             
     switch Recognion
 
