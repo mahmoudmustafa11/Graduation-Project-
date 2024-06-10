@@ -51,12 +51,12 @@ varargout{1} = handles.output;
 % --- Executes on button press in pushbutton1.
 function pushbutton1_Callback(hObject, eventdata, handles)
 
-global path file plant
-[file,path]=uigetfile('*.jpg','Select image');
-plant=imread([path file]);
-axes(handles.axes1);
-image(plant)
-axis off
+    global path file plant
+    [file,path]=uigetfile('*.jpg','Select image');
+    plant=imread([path file]);
+    axes(handles.axes1);
+    image(plant)
+    axis off
 
 
 
@@ -85,6 +85,7 @@ function pushbutton2_Callback(hObject, eventdata, handles)
 
 % --- Executes on button press in pushbutton3.
 function pushbutton3_Callback(hObject, eventdata, handles)
+
     global plant
     load plant.mat;
     vectors;
@@ -102,8 +103,8 @@ function pushbutton3_Callback(hObject, eventdata, handles)
     [Euc_dist_min , Recognion] = min(Euc_dist);
 
             
-    img_RR= imread(['D:\Mahmoud\Graduation Project\database\',int2str(Recognion),'.jpg']);
-    imwrite(img_RR, ['D:\Mahmoud\Graduation Project\save\',int2str(Recognion),'.jpg'], 'jpg');
+    img_RR= imread(['.\database\',int2str(Recognion),'.jpg']);
+    imwrite(img_RR, ['.\save\',int2str(Recognion),'.jpg'], 'jpg');
             
     switch Recognion
 
