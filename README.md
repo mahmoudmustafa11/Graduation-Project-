@@ -31,7 +31,7 @@ We have developed an automated diagnosis system using MATLAB that can determine 
 
 ## How-to-use
 
-1. Click the “Load Image” button to load the burn image.
+1. Click the “load Image” button to load the burn image.
    ![Load Image Button](./imgs/interface_img.PNG)
 
 2. Click the “training images” button to analyze the images in the database and wait a few seconds.
@@ -43,7 +43,7 @@ We have developed an automated diagnosis system using MATLAB that can determine 
 4. The burn degree result will appear in the listbox.
    ![Result Listbox](./imgs/result.png)
 
-5. Press the “close” button to exit the program.
+5. Click the “close” button to exit the program.
    ![Close Button](./imgs/close.png)
 
 ## Files-and-Structure
