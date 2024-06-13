@@ -34,16 +34,16 @@ We have developed an automated diagnosis system using MATLAB that can determine 
    ![Alt text](./imgs/interface_img.PNG)
 
 2. Click the “training images” button to analyze the images in the database and wait a few seconds.
-   ![Alt text](./imgs/training_images.PNG)
+   ![Alt text](./imgs/training_images.png)
 
 3. Click the “Diagnosis of the degree of burn” button to see the burn score of the uploaded image.
-   ![Alt text](./imgs/diagnosis-of-the-degree-of-burn.PNG)
+   ![Alt text](./imgs/diagnosis-of-the-degree-of-burn.png)
 
 4. The burn degree result will appear in the listbox.
-   ![Alt text](./imgs/result.PNG)
+   ![Alt text](./imgs/result.png)
 
 5. Press the “close” button to exit the program.
-   ![Alt text](./imgs/close.PNG)
+   ![Alt text](./imgs/close.png)
 
 ## Files-and-Structure
 
