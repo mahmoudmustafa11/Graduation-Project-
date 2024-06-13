@@ -6,7 +6,7 @@ We have developed an automated diagnosis system using MATLAB that can determine 
 
 ## User Interface
 
-![User Interface]("./imgs/interface.PNG")
+![User Interface](./imgs/interface.PNG)
 
 ## Contents
 
@@ -30,8 +30,10 @@ We have developed an automated diagnosis system using MATLAB that can determine 
 
 ## How-to-use
 
-1. Upload the burn image.
-   ![Alt text]("../img/degreeBurn.PNG")
+1. Click the “Load Image” button to load the burn image.
+
+   ![Alt text](./imgs/interface_img.PNG)
+
 2. Click the “Train System” button to analyze the images in the database.
 3. Click the “Show Burn Score Output” button to see the burn score of the uploaded image.
 
