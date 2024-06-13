@@ -31,11 +31,19 @@ We have developed an automated diagnosis system using MATLAB that can determine 
 ## How-to-use
 
 1. Click the “Load Image” button to load the burn image.
-
    ![Alt text](./imgs/interface_img.PNG)
 
-2. Click the “Train System” button to analyze the images in the database.
-3. Click the “Show Burn Score Output” button to see the burn score of the uploaded image.
+2. Click the “training images” button to analyze the images in the database and wait a few seconds.
+   ![Alt text](./imgs/training_images.PNG)
+
+3. Click the “Diagnosis of the degree of burn” button to see the burn score of the uploaded image.
+   ![Alt text](./imgs/diagnosis-of-the-degree-of-burn.PNG)
+
+4. The burn degree result will appear in the listbox.
+   ![Alt text](./imgs/result.PNG)
+
+5. Press the “close” button to exit the program.
+   ![Alt text](./imgs/close.PNG)
 
 ## Files-and-Structure
 
