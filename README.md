@@ -96,7 +96,7 @@ We have developed an automated diagnosis system using MATLAB that can determine 
 
 ## Contributions
 
-All contributions are welcome! You can open a problem if you find an error or you have a suggestion, or you can send a Pull Request to contribute to the project improvement
+Currently, we are not accepting contributions to this project. If you have any suggestions or find any issues, please feel free to open an issue for discussion, but please note that pull requests are not being accepted at this time.
 
 ## Communication
 
