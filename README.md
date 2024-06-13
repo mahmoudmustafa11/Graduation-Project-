@@ -63,6 +63,7 @@ We have developed an automated diagnosis system using MATLAB that can determine 
 ## Requirements
 
 - MATLAB
+- MATLAB version 2016 or higher
 - Matlab's following libraries :
   - Wavelet Toolbox
 
