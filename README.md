@@ -17,6 +17,7 @@ We have developed an automated diagnosis system using MATLAB that can determine 
 - [Requirements](#Requirements)
 - [Install](#Install)
 - [Contributions](#Contributions)
+- [Get to know our team](#Get-to-know-our-team)
 - [Communication](#Communication)
 
 ## Features
@@ -76,10 +77,29 @@ We have developed an automated diagnosis system using MATLAB that can determine 
 2. Open Matlab and go to the cloned folder.
 3. Run the main file `untitled.m`.
 
+## Get-to-know-our-team
+
+- [Ahmed Hamdi Mostafa](mailto:ahmedhamdi5561@gmail.com)
+- [Asmaa Ebrahim Rizk](mailto:bdwyasma2@gmail.com)
+- [Eman Mohammed Kedra](mailto:eman.kedra55@gmail.com)
+- [George Wagih Alper Nicola](mailto:georgewagih21@gmail.com)
+- [Rewan Nasser Ibrahim El-Shawadfi](mailto:rewanelshawadfy774@gmail.com)
+- [Arafa Ahmed Arafat](mailto:arafa4111999@gmail.com)
+- [Fatma El-Zahraa Darwish](mailto:ffaattmmaalzhraaa@gmail.com)
+- [Farida Mohammed Mohammed Abdallah Ali](mailto:fareedamohammed852@gmail.com)
+- [Faisal Mahmoud Hassan](mailto:faisal.mahmoud369@gmail.com)
+- [Mohammed Mostafa Ibrahim Abdel Monaem](mailto:mohamedmym86@gmail.com)
+- [Mahmoud Mostafa Elshahat](mailto:melshahat799@gmail.com)
+- [Maryam Ahmed Omran Ahmed Al-Qenawy](mailto:mariammran111@gmail.com)
+- [Maryam Galal Abdel Rafie Elshami](mailto:maryoma10elshamy@gmail.com)
+- [Maryam Wael Abdel Fattah Abdel Samie](mailto:mariamwael2219@gmail.com)
+
 ## Contributions
 
 All contributions are welcome! You can open a problem if you find an error or you have a suggestion, or you can send a Pull Request to contribute to the project improvement
 
 ## Communication
 
-If you have any questions or inquiries, you can contact us me via : [melshahat799@gmail.com](mailto:melshahat799@gmail.com)
+If you have any questions or inquiries, you can contact us me via :
+
+[melshahat799@gmail.com](mailto:melshahat799@gmail.com)
