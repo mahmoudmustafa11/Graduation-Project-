@@ -17,8 +17,8 @@ We have developed an automated diagnosis system using MATLAB that can determine 
 - [Requirements](#Requirements)
 - [Install](#Install)
 - [Contributions](#Contributions)
-- [Get to know our team](#Get-to-know-our-team)
 - [Communication](#Communication)
+- [Meet Our Team](#Meet-Our-Team)
 
 ## Features
 
@@ -78,6 +78,103 @@ We have developed an automated diagnosis system using MATLAB that can determine 
 2. Open Matlab and go to the cloned folder.
 3. Run the main file `untitled.m`.
 
+## Contributions
+
+Currently, we are not accepting contributions to this project. If you have any suggestions or find any issues, please feel free to open an issue for discussion, but please note that pull requests are not being accepted at this time.
+
+## Communication
+
+If you have any questions or inquiries, you can contact us me via :
+
+[melshahat799@gmail.com](mailto:melshahat799@gmail.com)
+
+## Meet-Our-Team
+
+#### George Wagih Alper Nicola
+
+- **Role:** Programmer
+- **Responsibilities:** Developed the functionality for loading images and exiting the program.
+- **Contact:** [georgewagih21@gmail.com](mailto:georgewagih21@gmail.com)
+
+#### Rewan Nasser Ibrahim El-Shawadfi
+
+- **Role:** Programmer
+- **Responsibilities:** Implemented feature extraction from stored images using DWT, calculated energy, and saved features to plant.mat.
+- **Contact:** [rewanelshawadfy774@gmail.com](mailto:rewanelshawadfy774@gmail.com)
+
+#### Eman Mohammed Kedra
+
+- **Role:** Programmer
+- **Responsibilities:** Implemented feature extraction from stored images using DWT, calculated energy, and saved features to plant.mat.
+- **Contact:** [eman.kedra55@gmail.com](mailto:eman.kedra55@gmail.com)
+
+#### Mahmoud Mustafa Elshahat
+
+- **Role:** Programmer
+- **Responsibilities:** Implemented feature extraction from stored images using DWT, calculated energy, and saved features to plant.mat.
+- **Contact:** [melshahat799@gmail.com](mailto:melshahat799@gmail.com)
+
+#### Ahmed Hamdi Mostafa
+
+- **Role:** Programmer
+- **Responsibilities:** Implemented the classification of burns using Euclidean distance to compare feature vectors and determine the burn degree.
+- **Contact:** [ahmedhamdi5561@gmail.com](mailto:ahmedhamdi5561@gmail.com)
+
+#### Fatma El-Zahraa Darwish
+
+- **Role:** Programmer
+- **Responsibilities:** Implemented the classification of burns using Euclidean distance to compare feature vectors and determine the burn degree.
+- **Contact:** [ffaattmmaalzhraaa@gmail.com](mailto:ffaattmmaalzhraaa@gmail.com)
+
+#### Farida Mohammed Mohammed Abdallah Ali
+
+- **Role:** Programmer
+- **Responsibilities:** Implemented the classification of burns using Euclidean distance to compare feature vectors and determine the burn degree.
+- **Contact:** [fareedamohammed852@gmail.com](mailto:fareedamohammed852@gmail.com)
+
+#### Arafa Ahmed Arafat
+
+- **Role:** Database Administrator
+- **Responsibilities:** Responsible for managing and organizing third-degree burn images in the database.
+- **Contact:** [arafa4111999@gmail.com](mailto:arafa4111999@gmail.com)
+
+#### Mohammed Mostafa Ibrahim Abdel Monaem
+
+- **Role:** Database Administrator
+- **Responsibilities:** Responsible for managing and organizing first-degree burn images in the database.
+- **Contact:** [mohamedmym86@gmail.com](mailto:mohamedmym86@gmail.com)
+
+#### Maryam Wael Abdel Fattah Abdel Samie
+
+- **Role:** Database Administrator
+- **Responsibilities:** Responsible for managing and organizing second-degree burn images in the database.
+- **Contact:** [mariamwael2219@gmail.com](mailto:mariamwael2219@gmail.com)
+
+#### Asmaa Ebrahim Rizk
+
+- **Role:** UI/UX Designer
+- **Responsibilities:** Designed the user interface and ensured proper functionality and user experience for the program.
+- **Contact:** [bdwyasma2@gmail.com](mailto:bdwyasma2@gmail.com)
+
+#### Faisal Mahmoud Hassan
+
+- **Role:** Project Documentation
+- **Responsibilities:** Assisted in writing and reviewing the graduation project booklet.
+- **Contact:** [faisal.mahmoud369@gmail.com](mailto:faisal.mahmoud369@gmail.com)
+
+#### Maryam Ahmed Omran Ahmed Al-Qenawy
+
+- **Role:** Project Documentation
+- **Responsibilities:** Authored the graduation project booklet and compiled all research references.
+- **Contact:** [mariammran111@gmail.com](mailto:mariammran111@gmail.com)
+
+#### Maryam Galal Abdel Rafie Elshami
+
+- **Role:** Project Documentation
+- **Responsibilities:** Contributed to writing and organizing the graduation project booklet.
+- **Contact:** [maryoma10elshamy@gmail.com](mailto:maryoma10elshamy@gmail.com)
+
+<!--
 ## Get-to-know-our-team
 
 - [Ahmed Hamdi Mostafa](mailto:ahmedhamdi5561@gmail.com)
@@ -95,12 +192,4 @@ We have developed an automated diagnosis system using MATLAB that can determine 
 - [Maryam Galal Abdel Rafie Elshami](mailto:maryoma10elshamy@gmail.com)
 - [Maryam Wael Abdel Fattah Abdel Samie](mailto:mariamwael2219@gmail.com)
 
-## Contributions
-
-Currently, we are not accepting contributions to this project. If you have any suggestions or find any issues, please feel free to open an issue for discussion, but please note that pull requests are not being accepted at this time.
-
-## Communication
-
-If you have any questions or inquiries, you can contact us me via :
-
-[melshahat799@gmail.com](mailto:melshahat799@gmail.com)
+ -->
