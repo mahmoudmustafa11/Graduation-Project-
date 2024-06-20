@@ -90,6 +90,12 @@ If you have any questions or inquiries, you can contact us me via :
 
 ## Meet-Our-Team
 
+#### Ahmed Hamdi Mostafa
+
+- **Role:** Programmer
+- **Responsibilities:** Developed the functionality for loading images and exiting the program.
+- **Contact:** [ahmedhamdi5561@gmail.com](mailto:ahmedhamdi5561@gmail.com)
+
 #### George Wagih Alper Nicola
 
 - **Role:** Programmer
@@ -114,11 +120,11 @@ If you have any questions or inquiries, you can contact us me via :
 - **Responsibilities:** Implemented feature extraction from stored images using DWT, calculated energy, and saved features to plant.mat.
 - **Contact:** [melshahat799@gmail.com](mailto:melshahat799@gmail.com)
 
-#### Ahmed Hamdi Mostafa
+#### Asmaa Ebrahim Rizk
 
 - **Role:** Programmer
 - **Responsibilities:** Implemented the classification of burns using Euclidean distance to compare feature vectors and determine the burn degree.
-- **Contact:** [ahmedhamdi5561@gmail.com](mailto:ahmedhamdi5561@gmail.com)
+- **Contact:** [bdwyasma2@gmail.com](mailto:bdwyasma2@gmail.com)
 
 #### Fatma El-Zahraa Darwish
 
@@ -150,11 +156,11 @@ If you have any questions or inquiries, you can contact us me via :
 - **Responsibilities:** Responsible for managing and organizing second-degree burn images in the database.
 - **Contact:** [mariamwael2219@gmail.com](mailto:mariamwael2219@gmail.com)
 
-#### Asmaa Ebrahim Rizk
+#### Maryam Galal Abdel Rafie Elshami
 
 - **Role:** UI/UX Designer
 - **Responsibilities:** Designed the user interface and ensured proper functionality and user experience for the program.
-- **Contact:** [bdwyasma2@gmail.com](mailto:bdwyasma2@gmail.com)
+- **Contact:** [maryoma10elshamy@gmail.com](mailto:maryoma10elshamy@gmail.com)
 
 #### Faisal Mahmoud Hassan
 
@@ -167,12 +173,6 @@ If you have any questions or inquiries, you can contact us me via :
 - **Role:** Project Documentation
 - **Responsibilities:** Authored the graduation project booklet and compiled all research references.
 - **Contact:** [mariammran111@gmail.com](mailto:mariammran111@gmail.com)
-
-#### Maryam Galal Abdel Rafie Elshami
-
-- **Role:** Project Documentation
-- **Responsibilities:** Contributed to writing and organizing the graduation project booklet.
-- **Contact:** [maryoma10elshamy@gmail.com](mailto:maryoma10elshamy@gmail.com)
 
 <!--
 ## Get-to-know-our-team
